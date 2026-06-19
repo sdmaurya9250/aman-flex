@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/aman-flex' ,
+  base: './',
   build: {
     outDir: 'dist',
   }
